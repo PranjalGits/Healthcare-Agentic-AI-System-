@@ -915,7 +915,7 @@ elif page == "🎤 Voice + Vision":
 # ============================================================
 # PAGE 6: DRUG INTERACTION CHECKER
 # ============================================================
-elif page == "💊 Drug Interaction Checker":
+elif page == "💊 Drug Interaction":
     st.title("💊 Drug Interaction Checker")
     st.markdown("""
     <div class='info-box'>
